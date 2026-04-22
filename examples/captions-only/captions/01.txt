@@ -1,0 +1,8 @@
+caption: A cold, metallic industrial track with clanging percussion, distorted sub-bass, and a half-time beat. Mechanical and oppressive.
+genre: industrial, noise, dark ambient
+bpm: 100
+key: G minor
+signature: 4
+is_instrumental: true
+lyrics:
+[Instrumental]

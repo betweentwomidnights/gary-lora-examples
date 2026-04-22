@@ -1,0 +1,8 @@
+caption: A dubby, lo-fi beat with soft filtered drums, muted chord stabs, and a swirling delay on the lead. Late-night, contemplative.
+genre: lo-fi, downtempo, dub
+bpm: 78
+key: A minor
+signature: 4
+is_instrumental: true
+lyrics:
+[Instrumental]

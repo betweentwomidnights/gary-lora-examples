@@ -1,0 +1,8 @@
+caption: A slow, evolving ambient drone with warm analog pads, distant bell textures, and subtle tape hiss. Introspective and patient.
+genre: ambient, drone, minimal
+bpm: 60
+key: D minor
+signature: 4
+is_instrumental: true
+lyrics:
+[Instrumental]

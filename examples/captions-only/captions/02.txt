@@ -1,0 +1,7 @@
+caption: A lush orchestral cue with a soaring string melody, timpani swells, and brass fanfares underneath. Triumphant.
+bpm: 120
+key: C major
+signature: 4
+is_instrumental: true
+lyrics:
+[Instrumental]

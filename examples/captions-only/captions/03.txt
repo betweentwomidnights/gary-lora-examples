@@ -1,0 +1,7 @@
+genre: breakbeat, jungle, amen, rolling, dark
+bpm: 170
+key: F minor
+signature: 4
+is_instrumental: true
+lyrics:
+[Instrumental]
