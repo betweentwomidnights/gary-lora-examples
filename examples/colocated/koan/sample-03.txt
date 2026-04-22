@@ -1,0 +1,47 @@
+caption: An intense and chaotic breakcore track that opens with a frantic, glitchy drum and bass rhythm and a squelching, distorted synth bassline. Heavily processed and chopped vocal samples are used as rhythmic and textural elements, stuttering and pitch-shifting throughout the mix. The track abruptly transitions into a spacious, atmospheric ambient section characterized by evolving synth pads and a sense of vastness. This ambient passage builds tension before slamming back into a powerful, driving breakbeat with a heavy, distorted bass. The second half reintroduces the frantic energy with complex drum programming and vocal chops, culminating in a final atmospheric breakdown that fades out with lingering synth textures and a final glitchy flourish.
+genre: glitch hop, neurofunk, electronica, intricate breakbeat
+bpm: 86
+key: G minor
+signature: 4
+is_instrumental: true
+custom_tag: patch
+lyrics:
+[Intro]
+[Distorted synth arpeggio and driving beat]
+
+[Verse 1]
+[Robotic, distorted voice]
+[Synth arpeggio continues]
+
+[Chorus]
+[Robotic, distorted voice]
+[Synth arpeggio continues]
+
+[Verse 2]
+[Robotic, distorted voice]
+[Synth arpeggio continues]
+
+[Chorus]
+[Robotic, distorted voice]
+[Synth arpeggio continues]
+
+[Bridge]
+[Robotic, distorted voice]
+[Synth arpeggio continues]
+
+[Chorus]
+[Robotic, distorted voice]
+[Synth arpeggio continues]
+
+[Breakdown]
+[Robotic, distorted voice]
+[Synth arpeggio continues]
+
+[Chorus]
+[Robotic, distorted voice]
+[Synth arpeggio continues]
+
+[Outro]
+[Robotic, distorted voice]
+[Synth arpeggio continues]
+[Beat and synths fade out]

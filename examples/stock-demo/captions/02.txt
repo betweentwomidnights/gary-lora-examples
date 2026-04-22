@@ -1,8 +1,0 @@
-caption: A cinematic synth piece with a slow build, granular textures, and an emerging bassline. Tense but restrained.
-genre: cinematic, ambient, synthwave
-bpm: 72
-key: F minor
-signature: 4
-is_instrumental: true
-lyrics:
-[Instrumental]

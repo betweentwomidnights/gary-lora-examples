@@ -1,0 +1,9 @@
+caption: An atmospheric, cinematic intro with shimmering, reversed synth pads and bell-like tones gives way to a complex and glitchy IDM beat. The track is built on a foundation of stuttering, chopped samples, a deep sub-bass, and a quirky, squelching synth bassline that drives the rhythm. The arrangement is dynamic and restless, featuring intricate drum programming with micro hẹrs and clicks, and a variety of synth textures, including melodic leads and arpeggiated patterns. The piece evolves through sections of intense rhythmic complexity, brief melodic interludes, and a driving, almost four-on-the-floor passage before concluding with a fade-out of its core rhythmic and atmospheric elements.
+genre: glitch hop, neurofunk, electronica, intricate breakbeat
+bpm: 70
+key: G# minor
+signature: 4
+is_instrumental: true
+custom_tag: patch
+lyrics:
+[Instrumental]

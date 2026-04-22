@@ -1,8 +1,0 @@
-caption: A modular synth study — bubbling sequencer lines over a slow low-pass filter sweep, occasional plucked artifacts.
-genre: modular, ambient, experimental
-bpm: 90
-key: E minor
-signature: 4
-is_instrumental: true
-lyrics:
-[Instrumental]

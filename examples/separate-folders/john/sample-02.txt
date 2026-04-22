@@ -1,0 +1,9 @@
+caption: A nostalgic mid-tempo ballad with clean Strat-style electric guitar, gentle hi-hat shuffle, simple bass, lush backing harmonies in the chorus, warm room reverb on everything.
+genre: pop rock, soft rock, ballad, clean electric
+bpm: 88
+key: D major
+signature: 4
+is_instrumental: false
+custom_tag: john
+lyrics:
+[Lyrics Go Here]

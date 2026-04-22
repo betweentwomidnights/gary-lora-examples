@@ -1,0 +1,31 @@
+caption: An aggressive, high-energy neurofunk track driven by a relentless, heavily processed breakbeat and a complex, modulating synth bassline that growls and morphs throughout. The arrangement is dense with layers of futuristic sound design, including sharp synth stabs, glitchy FX, and atmospheric pads that provide momentary contrast during brief breakdowns. The track builds tension with dramatic risers and filter sweeps before slamming back into its main groove. A significant shift occurs in the latter half, introducing an epic, almost cinematic melodic section with soaring synth leads and arpeggios, adding a layer of futuristic grandeur before a final, intense rhythmic assault.
+genre: glitch hop, neurofunk, electronica, intricate breakbeat
+bpm: 172
+key: F minor
+signature: 4
+is_instrumental: true
+custom_tag: patch
+lyrics:
+[Intro]
+[Distorted synth bass and driving breakbeat]
+
+[Verse 1]
+[Main groove enters with layered synths]
+
+[Chorus]
+[Energy builds with layered synth melodies and vocal chops]
+
+[Verse 2]
+[Breakdown with filtered synth bass and atmospheric pads]
+
+[Chorus]
+[Full energy returns with all elements]
+
+[Bridge]
+[Synth arpeggios and pads build tension]
+
+[Chorus]
+[Full energy returns with all elements]
+
+[Outro]
+[Elements begin to fade out, leaving a final synth note]

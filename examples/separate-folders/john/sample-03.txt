@@ -1,0 +1,9 @@
+caption: A blues-leaning rock arrangement, overdriven electric guitar with a singing lead tone, in-the-pocket drums, walking bass, organ swells underneath. Late-night and emotional.
+genre: blues rock, soul, electric blues, organ
+bpm: 102
+key: G major
+signature: 4
+is_instrumental: false
+custom_tag: john
+lyrics:
+[Lyics go here]

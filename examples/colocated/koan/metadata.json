@@ -1,0 +1,5 @@
+{
+  "scale": 1.0,
+  "backends": ["base", "turbo"],
+  "model_family": "xl"
+}

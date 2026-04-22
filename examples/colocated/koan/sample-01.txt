@@ -1,0 +1,9 @@
+caption: An energetic and complex instrumental track driven by a syncopated, funky breakbeat and a prominent, melodic synth bassline. The arrangement is dense with layers of electronic textures, including jazzy electric piano chords, fast-paced synth arpeggios, and various glitchy sound effects and sweeps. The track maintains a high-energy, almost frantic pace throughout, reminiscent of a video game soundtrack or a fusion of funk, jazz, and electronic music. The piece concludes with a sudden breakdown into a more ambient section featuring a sustained synth pad and a final, isolated melodic motif before fading out.
+genre: glitch hop, neurofunk, electronica, intricate breakbeat
+bpm: 114
+key: E minor
+signature: 4
+is_instrumental: true
+custom_tag: patch
+lyrics:
+[Instrumental]

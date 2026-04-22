@@ -1,8 +1,0 @@
-caption: A glitchy experimental track built around broken rhythmic loops, detuned mallets, and field-recording crackle. Unhurried.
-genre: experimental, glitch, idm
-bpm: 85
-key: C minor
-signature: 4
-is_instrumental: true
-lyrics:
-[Instrumental]

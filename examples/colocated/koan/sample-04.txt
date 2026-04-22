@@ -1,0 +1,27 @@
+caption: An energetic and virtuosic jazz trio performance driven by a bright, percussive acoustic piano. The piece kicks off with a punchy, syncopated piano motif over a tight, swinging rhythm section of walking upright bass and crisp, articulate drumming on a ride cymbal and snare. The arrangement quickly launches into a complex, bebop-influenced piano theme with fast-paced melodic runs and sophisticated chordal work. The track features an extended, improvisational piano solo showcasing impressive technical skill and harmonic complexity, before returning to the main theme and concluding with a decisive final chord.
+genre: glitch hop, neurofunk, electronica, intricate breakbeat
+bpm: 90
+key: B minor
+signature: 4
+is_instrumental: true
+custom_tag: patch
+lyrics:
+[Music - High-Energy Instrumental]
+
+[0:00 - 0:30] [Intro: Driving rhythm with piano, bass, and drums]
+
+[0:30 - 0:41] [Melodic Section 1: Piano plays a new, more melodic theme]
+
+[0:41 - 0:52] [Melodic Section 2: A new, slightly more complex piano melody]
+
+[0:52 - 1:03] [Melodic Section 3: A new, slightly more complex piano melody]
+
+[1:03 - 1:14] [Melodic Section 4: A new, slightly more complex piano melody]
+
+[1:14 - 1:25] [Melodic Section 5: A new, slightly more complex piano melody]
+
+[1:25 - 1:31] [Melodic Section 6: A new, slightly more complex piano melody]
+
+[1:32 - 1:45] [Melodic Section 7: A new, slightly more complex piano melody]
+
+[1:45 - 2:00] [Abrupt end]

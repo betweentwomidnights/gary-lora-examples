@@ -1,0 +1,9 @@
+caption: A laid-back acoustic-led pop-rock arrangement, fingerpicked acoustic guitar driving the groove, brushed drums, warm electric piano comping, soft male vocal phrasing on top. Sun-drenched and unhurried.
+genre: pop rock, acoustic, soft rock, fingerstyle
+bpm: 92
+key: A major
+signature: 4
+is_instrumental: false
+custom_tag: john
+lyrics:
+[Lyrics Go Here]
